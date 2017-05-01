@@ -1,0 +1,23 @@
+{
+  "name": "ng-movie-browser",
+  "version": "1.0.0",
+  "description": "Browse the movies database through API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautamgahlawat/ng-movie-browser.git"
+  },
+  "keywords": [
+    "angular",
+    "API"
+  ],
+  "author": "Gautam Gahlawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gautamgahlawat/ng-movie-browser/issues"
+  },
+  "homepage": "https://github.com/gautamgahlawat/ng-movie-browser#readme"
+}
